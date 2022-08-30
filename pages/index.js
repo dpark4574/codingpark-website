@@ -17,7 +17,7 @@ export default function Home() {
           <div className="w-3/5 p-20">
             <p>Sign in Section</p>
           </div>
-          <div className="w-2/5 p-20 bg-green-500 text-white rounded-tr-2xl rounded-br-2xl">
+          <div className="w-2/5 p-20 bg-green-500 text-white rounded-tr-2xl rounded-br-2xl6">
             <p>Sign up Section</p>
           </div>
         </div>
